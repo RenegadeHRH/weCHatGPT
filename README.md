@@ -17,7 +17,7 @@ English | [中文文档](README_ZH.md)
 If you don't have a server or want to experience rapid deployment, you can use Railway to do so, see [Usage with Railway](#usage-with-railway).
 
 ### Update December 20, 2022
-
+!
 Thanks @transitive-bullshit, The ChatGPT API automates the work.  
 You should use password & username to login, and config [CAPTCHAs](#CAPTCHAS).  
 ⚠️ There may be a problem with the Docker image because I don't have an X86 device and Qume doesn't work.
